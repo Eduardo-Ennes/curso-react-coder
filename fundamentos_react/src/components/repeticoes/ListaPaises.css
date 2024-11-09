@@ -1,0 +1,42 @@
+.Card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul{
+    width: 30rem;
+}
+
+li{
+    list-style-type: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.404);
+    padding: 0.3rem;
+}
+
+table{
+    border: 1px solid white;
+    padding: 1.5rem;
+    margin: 5rem auto 5rem auto;
+    width: 40rem;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+caption{
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+th{
+    text-align: center;
+    border: 1px solid white;
+}
+
+td{
+    text-align: center;
+    border: 1px solid white;
+    
+}
